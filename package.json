@@ -123,7 +123,7 @@
     "amphtml-validator": "1.0.35",
     "async-sema": "3.0.1",
     "babel-plugin-react-compiler": "0.0.0-experimental-c23de8d-20240515",
-    "browserslist": "4.22.2",
+    "browserslist": "4.28.7",
     "buffer": "5.6.0",
     "cheerio": "0.22.0",
     "cookie": "0.4.1",
@@ -248,7 +248,7 @@
   },
   "resolutions": {
     "webpack": "5.90.0",
-    "browserslist": "4.22.2",
+    "browserslist": "4.28.7",
     "caniuse-lite": "1.0.30001579",
     "@types/node": "20.12.3",
     "@babel/core": "7.22.5",
