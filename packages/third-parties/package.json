@@ -26,7 +26,7 @@
     "third-party-capital": "1.0.20"
   },
   "devDependencies": {
-    "next": "15.0.0-canary.70",
+    "next": "15.5.24",
     "outdent": "0.8.0",
     "prettier": "2.5.1"
   },
